@@ -15,6 +15,6 @@ public class AddressBook {
         BuddyInfo buddy1 = new BuddyInfo("Tom", "Carleton", 613);
         book.addBuddy(buddy1);
         book.removeBuddy(buddy1);
-
+        // test comment for git
     }
 }
